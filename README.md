@@ -6,7 +6,6 @@ This project demonstrates a simple linear regression model using TensorFlow/Kera
 
 Training performance is visualized through Matplotlib plots showing how the model’s loss and error change across epochs for both training and validation data.
 
-The project also includes data visualization for understanding the distribution of prices and tracking training performance across epochs.
 
 ## Technologies Used
 
